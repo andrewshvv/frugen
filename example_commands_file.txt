@@ -1,0 +1,3 @@
+save /tmp/fru2.bin
+quit
+
